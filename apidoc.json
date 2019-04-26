@@ -1,0 +1,11 @@
+{
+	"name": "iSup Api",
+	"version": "1.0.1",
+	"description": "API description",
+	"title": "API Document",
+	"url": "http://192.168.4.20:8082/iSup",
+	"sampleUrl": "http://127.0.0.1:8080/iSup",
+	"template": {
+		"forceLanguage": "zh_cn"
+	}
+}  

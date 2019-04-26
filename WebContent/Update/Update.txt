@@ -1,0 +1,7 @@
+﻿{
+  "describe": "新版本，添加报价单商品扫描提示",
+  "url": "https://download.w202w.com/resource/nuts.apk",
+  "versionCode": 29,
+  "isMust": 0,
+  "versionName": "0.3.9"
+}
